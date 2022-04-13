@@ -1,3 +1,1 @@
-# Waiting_For_Pull_Request
-
-🙌
+👀 Waiting for pull request
